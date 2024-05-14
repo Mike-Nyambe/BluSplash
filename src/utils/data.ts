@@ -1,35 +1,35 @@
 const services = [
   {
-    title: "Water Treatment",
+    title: "Electrical engineering",
     description:
       "Under the water treatment division, we provide water solutions to our clientele through treatment, monitoring, conditioning and technical consultancy",
     icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
   },
   {
-    title: "Supply Water Treatment Products",
+    title: "Civil construction",
     description:
-      " satisfy our clientele through product and process innovation, cost reduction activities, preventive action, and client requirement specification.",
+      "Civil construction involves planning, designing, constructing, and maintaining infrastructure like roads, bridges, dams, and buildings for societal development.",
     icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
   },
   {
-    title: "Mining and Mineral Processing Industries",
-    description: `steel pipes and fittings, PVC pipes & fittings,Pumps- all types including spares and seals Valves,Measuring and testing instruments`,
+    title: "Mechanical engineering",
+    description: `Mechanical engineering as a service entails providing expertise in design, analysis, and optimization of mechanical systems for various industries' needs.`,
     icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
   },
   {
-    title: "Supplying Auto Spares",
+    title: "Electrical engineering",
     description:
-      "We are specialized in the supply of auto spares on small or large scale and to all industries that need auto spares.",
+      "Electrical engineering as a service involves offering expertise in designing, implementing, and maintaining electrical systems for various applications, industries, and projects.",
     icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
   },
   {
-    title: "Water treatment chemicals & waste treatment",
+    title: "Renewable energy",
     description:
-      "We also install and supply Filtration cartridges and systems, Chemicals dosing systems",
+      "Renewable energy as a service involves providing consulting, design, installation, and maintenance of renewable energy systems like solar, wind, and hydroelectric for businesses and communities.",
     icon: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M6 12L3.269 3.126A59.768 59.768 0 0121.485 12 59.77 59.77 0 013.27 20.876L5.999 12zm0 0h7.5" />
         </svg>`,
   },
